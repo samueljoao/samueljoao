@@ -3,8 +3,6 @@
 ##
 
 - 🌱 Estudando: Python  e JavaS
-- 😄 Pronomes: ele/ela
-- ⚡ Fato Engraçado: O microondas foi inventado depois que um pesquisador passou por um tubo de radar e uma barra de chocolate derreteu em seu bolso.
 
 <div align="center">
   <a href="https://github.com/samueljoao">
